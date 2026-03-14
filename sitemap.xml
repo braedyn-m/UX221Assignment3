@@ -27,6 +27,36 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/audioslave-self-titled-vinyl/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/the-grey-chapter-vinyl-slipknot/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/nothing-remastyered-2006-vinyl-meshuggah/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/duality-vinyl-slipknot/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/the-battle-of-los-angeles-vinyl-rage-against-the-machine/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
