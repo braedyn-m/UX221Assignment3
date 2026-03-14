@@ -1,0 +1,4 @@
+[13-Mar-2026 00:32:31 UTC] PHP Warning:  Undefined property: WP_Ajax_Upgrader_Skin::$api in /workspaces/UX221Assignment2/.wordpress/wp-admin/includes/class-theme-upgrader.php on line 160
+[13-Mar-2026 00:32:46 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/UX221Assignment2/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
+[13-Mar-2026 00:32:52 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/UX221Assignment2/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
+[13-Mar-2026 00:52:12 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/UX221Assignment2/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
